@@ -9,3 +9,5 @@ Currently, this means:
 - [`goveralls`](https://github.com/mattn/goveralls)
 - [`gox`](https://github.com/mitchellh/gox)
 - [`ghr`](https://github.com/tcnksm/ghr)
+
+on top of [`circleci/golang`](https://hub.docker.com/r/circleci/golang/).
