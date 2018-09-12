@@ -12,4 +12,4 @@ Currently, this means:
 
 on top of [`circleci/golang`](https://hub.docker.com/r/circleci/golang/).
 
-Image is available in Docker hub at `vianellod/go-circleci-builder`
+Image is available in Docker hub at [`vianellod/go-circleci-builder`](https://hub.docker.com/r/vianellod/go-circleci-builder/)
