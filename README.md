@@ -11,3 +11,5 @@ Currently, this means:
 - [`ghr`](https://github.com/tcnksm/ghr)
 
 on top of [`circleci/golang`](https://hub.docker.com/r/circleci/golang/).
+
+Image is available in Docker hub at `vianellod/go-circleci-builder`
